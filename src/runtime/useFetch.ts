@@ -77,7 +77,7 @@ export function createUseOpenFetch<
 
 function createAutoKey(url: string | (() => string), options: any) {
   const resolvedRequestOptions = {
-    url: typeof url === 'string' ? url : url(),
+    url,
     method: options.method,
     path: options.path,
     query: options.query,
