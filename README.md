@@ -8,6 +8,10 @@ Find and replace all on all files (CMD+SHIFT+F):
 -->
 [![Nuxt Open Fetch](./docs/public/cover.png)](https://nuxt-open-fetch.vercel.app/)
 
+> [!IMPORTANT]
+> I maintained this fork for a few months, but I've now been granted access to the original repository:\
+> [enkot/nuxt-open-fetch](https://github.com/enkot/nuxt-open-fetch) - this is now the official maintained version.
+
 # Nuxt Open Fetch
 
 [![npm version][npm-version-src]][npm-version-href]
